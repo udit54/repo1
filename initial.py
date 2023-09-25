@@ -1,1 +1,1 @@
-print("Fibonacci series - python")
+print("Fibonacci series in python")
